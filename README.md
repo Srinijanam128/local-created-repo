@@ -2,4 +2,4 @@
 
 ## This has added as part of Branching
 
-1. open the readme
+1. open the index_local.html
